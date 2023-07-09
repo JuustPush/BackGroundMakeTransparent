@@ -1,0 +1,11 @@
+E:\visual studio\repos\Keyer\Keyer\bin\Debug\Keyer.exe.config
+E:\visual studio\repos\Keyer\Keyer\bin\Debug\Keyer.exe
+E:\visual studio\repos\Keyer\Keyer\bin\Debug\Keyer.pdb
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.csproj.AssemblyReference.cache
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.csproj.SuggestedBindingRedirects.cache
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.Form1.resources
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.Properties.Resources.resources
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.csproj.GenerateResource.cache
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.csproj.CoreCompileInputs.cache
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.exe
+E:\visual studio\repos\Keyer\Keyer\obj\Debug\Keyer.pdb
